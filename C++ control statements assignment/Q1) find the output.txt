@@ -1,0 +1,4 @@
+If (x+y) is greater than m then remainder of (x+y) will be the value of z. And the output will be the remainder.
+Byt if (x+y) is less than m then (x+y) will the vaue of z. Then the output will be the (x+y) which is z.
+
+Output is 5
